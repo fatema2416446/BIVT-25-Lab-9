@@ -1,4 +1,5 @@
-namespace Lab9 {
+namespace Lab9.White
+{
 public class Task1 : White
   {
       private double _output;
