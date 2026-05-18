@@ -23,5 +23,5 @@ namespace Lab9.White
         _input = text ?? string.Empty;
         Review();
     }
-}
  }
+}
