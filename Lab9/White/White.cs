@@ -1,7 +1,7 @@
 ﻿namespace Lab9.White
 {
  public abstract class White
-
+ {
     private string _input;
 
     public string Input => _input;
@@ -19,4 +19,4 @@
         Review();
     }
 }
-
+ }
