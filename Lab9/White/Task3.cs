@@ -72,7 +72,5 @@ namespace Lab9.White
      {
          return _output ?? string.Empty;
      }
- }
-
-    
+ } 
 }
