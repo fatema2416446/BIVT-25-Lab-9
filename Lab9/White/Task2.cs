@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
-namespace White{
+namespace Lab9.White{
 
 public class Task2 : White
 {
