@@ -1,4 +1,9 @@
-﻿namespace Lab9.White
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+namespace Lab9.White
 {
  public abstract class White
  {
