@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
-namespace Lab9.White
-{
+namespace Lab9.White{
+
 public class Task2 : White
 {
     private int[,] _output;
